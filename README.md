@@ -1,5 +1,5 @@
 # TrackScoreApp
-An app that gives the user ability to calculate the basketball game scores for both teams, 
-all you will need to do everytime the ball gets in, you click if it was worth 3 points, 2 or a free throw.
+An app that gives the user ability to track scores between two teams playing a basketball game, all you will need to do everytime the ball gets in, you click if it was worth 3 points, 2 or a free throw. 
 
-created using methods and global variables.
+User friendly only buttons.
+Created using methods and global variables.
